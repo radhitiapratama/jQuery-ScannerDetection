@@ -1,1 +1,1 @@
-# jQuery-ScannerDetection Latest
+### jQuery-ScannerDetection Latest
